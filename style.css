@@ -8,3 +8,13 @@
     justify-content: center;
 }
 
+.input-group-text{
+    font-size: 6rem;
+}
+
+#formulario{
+    display: flex;
+    width: 500px;
+    align-items: center;
+    justify-content: center;
+}
